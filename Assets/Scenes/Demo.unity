@@ -745,9 +745,9 @@ GameObject:
   - component: {fileID: 1476570378}
   - component: {fileID: 1476570377}
   - component: {fileID: 1476570376}
-  - component: {fileID: 1476570375}
   - component: {fileID: 1476570374}
   - component: {fileID: 1476570373}
+  - component: {fileID: 1476570375}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -802,7 +802,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1476570372}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e71daa3e77de1441e96d812c8fa886c6, type: 3}
+  m_Script: {fileID: 11500000, guid: 2d3aa040100de499fbf8726d8b6a87cd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   userInputField: {fileID: 363724100}
